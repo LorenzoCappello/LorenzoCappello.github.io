@@ -1,0 +1,67 @@
+/* Media Query */
+
+@media screen and (max-width: 767px) {
+    section {
+      text-align: center;
+    }
+
+    /*footer {
+      text-align: center;
+    }*/
+
+    .col-2 .col-3 {
+      flex-direction: row;
+    } 
+
+    header h1, h2 {
+      font-size: 40px;
+      font-family: 'Poppins';
+    }
+
+    .home{
+      height: 60vh;
+      background-position: left;
+    }
+    
+    .text {
+      font-size: 30px;
+      line-height: 40px;
+    }
+
+    p {
+      padding-left: 0px;
+    }
+
+    .cards{
+      margin-top: 30px;
+      margin-bottom: 30px;
+      display:block;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      padding-left: 10px;
+      padding-right: 10px;
+      max-height: fit-content;
+      border-radius: 80px 0px;
+      box-shadow: 0px 4px 4px 4px rgba(0, 0, 0, 0.25);
+      
+    }
+    .cards h1{
+      font-size: 25px;
+      line-height: 30px;
+    }
+    
+    .cards p{
+        max-width: 486px;
+        max-height: fit-content;
+        font-size: 20px;
+        line-height: 135.5%;
+        color: #0E1224;
+        padding: 0px;
+    }
+
+    .footer-tris{
+      margin-top:20px;
+    }
+
+  }
+  
