@@ -1,4 +1,5 @@
-<?php
+<!DOCTYPE html>
+<html lang="it">
 <nav class="navbar navbar-expand-sm navbar-dark sticky-top" id="mainNav">
     <div class="container"><a class = "navbar-brand"  href="index.php" style="font-size: 30px; transform: scale(1, .9);" 
         onmouseover="this.style.color='rgba(34,141,217,255)';" onmouseout="this.style.color='white';">MesoteLiberi</a>
@@ -14,4 +15,4 @@
         </div>
     </div>
 </nav>
-?>
+</html>
