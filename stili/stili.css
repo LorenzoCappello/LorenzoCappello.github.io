@@ -46,7 +46,7 @@ nav ul li a:hover{
 .home{
     width: auto;
     height: 80vh;
-    background-image: url("images/fotohome.png");
+    background-image: url("../images/fotohome.png");
     background-position: center;
     background-size: cover;
     color:white;
@@ -237,13 +237,13 @@ footer a{
 }
 
 .slide:nth-of-type(1){
-    background-image: url('images/GALLERY 1.png');
+    background-image: url('../images/GALLERY 1.png');
 }
 .slide:nth-of-type(2){
-    background-image: url('images/GALLERY 2.png');
+    background-image: url('../images/GALLERY 2.png');
 }
 .slide:nth-of-type(3){
-    background-image: url('images/GALLERY 3.png')
+    background-image: url('../images/GALLERY 3.png')
 }
 
 /*banner*/
