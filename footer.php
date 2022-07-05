@@ -1,3 +1,4 @@
+<?php
 <footer class="container">
     <div class="row">
         <div id="fonti" class="col-12 col-md-5 border border-top-0 border-bottom-0 border-start-0 border-2 order-5 order-md-1">
@@ -30,3 +31,4 @@
         </div>
     </div>
 </footer>
+?>
