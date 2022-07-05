@@ -24,7 +24,7 @@
 
 <body id="page-top" data-bs-spy="scroll" data-bs-target="#mainNav" style="overflow-x: hidden;">
     
-   <?php include_once("navbar.html"); ?>
+   <?php include'navbar.html'; ?>
 
     <div class="cookie-container">
             <div>
